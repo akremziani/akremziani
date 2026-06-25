@@ -12,7 +12,7 @@ Building Vocalype, an AI voice assistant for post-call work.
 
 - [vocalype-open](https://github.com/akremziani/vocalype-open): public community docs, issue tracker, roadmap, and security policy for Vocalype
 - [cleansnap-electron](https://github.com/akremziani/cleansnap-electron): Windows screenshot utility prototype
-- [visual-studio](https://github.com/akremziani/visual-studio): desktop screen recording/editor prototype
+- [screen-recorder-electron](https://github.com/akremziani/screen-recorder-electron): desktop screen recording/editor prototype
 
 ## Links
 
