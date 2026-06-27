@@ -1,20 +1,30 @@
 # Akrem Ziani
 
-Building Vocalype, an AI voice assistant for post-call work.
+Montreal-based founder building [Vocalype](https://vocalype.com), an AI desktop voice assistant for dictation and post-call workflows.
 
-## Current Focus
+Personal site: [akremziani.com](https://www.akremziani.com)
 
-- Vocalype: voice workflows for recruiters, sales, customer success, and CRM updates
-- Desktop productivity tools for Windows
-- AI-assisted documentation, issue triage, and maintainer workflows
+## What I am building
 
-## Public Projects
+Vocalype helps people speak naturally, then turn that voice into useful work: notes, follow-ups, CRM updates, emails, messages, and everyday writing.
 
-- [vocalype-open](https://github.com/akremziani/vocalype-open): public community docs, issue tracker, roadmap, and security policy for Vocalype
+I built the desktop app, transcription pipeline, cloud/local routing, account system, billing flow, and user feedback workflows.
+
+## Background
+
+Before Vocalype, I built websites for local businesses through Lazo Webs and later founded Lazo Growth, a digital marketing agency. I recruited and trained a 25-student cold-calling team, made over 600 calls to local businesses, and closed a first $500 client.
+
+## Public projects
+
+- [akremziani.com](https://github.com/akremziani/akremziani.com): personal website and public founder profile
+- [vocalype-open](https://github.com/akremziani/vocalype-open): public docs, issue tracker, roadmap, and security policy for Vocalype
 - [cleansnap-electron](https://github.com/akremziani/cleansnap-electron): Windows screenshot utility prototype
 - [screen-recorder-electron](https://github.com/akremziani/screen-recorder-electron): desktop screen recording/editor prototype
 
 ## Links
 
-- Website: https://vocalype.com
-- GitHub: https://github.com/akremziani
+- Personal website: https://www.akremziani.com
+- Vocalype: https://vocalype.com
+- LinkedIn: https://www.linkedin.com/in/akrem-ziani-678093408
+- X: https://x.com/AkremZiani
+
