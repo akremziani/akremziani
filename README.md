@@ -10,6 +10,8 @@ Vocalype helps people speak naturally, then turn that voice into useful work: no
 
 Onzaris connects schedules, fields, officials, game sheets, results and communications for soccer organizations. It is being prepared for a bounded, assisted pilot where routine operations are automated and sensitive decisions remain human-approved.
 
+I am also creating [BoraLoan](https://github.com/akremziani/boraloan-public), a research project exploring earlier screening of compute-site constraints before expensive engineering and development decisions.
+
 ## Background
 
 Before Vocalype, I built websites for local businesses through Lazo Webs and later founded Lazo Growth, a digital marketing agency. I recruited and trained a 25-student cold-calling team, made over 600 calls to local businesses, and closed a first $500 client.
@@ -21,7 +23,7 @@ Before Vocalype, I built websites for local businesses through Lazo Webs and lat
 - [vocalype-open](https://github.com/akremziani/vocalype-open): public docs, issue tracker, roadmap, and security policy for Vocalype
 - [cleansnap-electron](https://github.com/akremziani/cleansnap-electron): Windows screenshot utility prototype
 - [screen-recorder-electron](https://github.com/akremziani/screen-recorder-electron): desktop screen recording/editor prototype
-- [orthobiome-lab-public](https://github.com/akremziani/orthobiome-lab-public): transparent, risk-aware orthodontic simulation research showcase
+- [boraloan-public](https://github.com/akremziani/boraloan-public): minimal public overview of the BoraLoan research project
 
 ## Links
 
