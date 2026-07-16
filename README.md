@@ -20,6 +20,7 @@ Before Vocalype, I built websites for local businesses through Lazo Webs and lat
 - [vocalype-open](https://github.com/akremziani/vocalype-open): public docs, issue tracker, roadmap, and security policy for Vocalype
 - [cleansnap-electron](https://github.com/akremziani/cleansnap-electron): Windows screenshot utility prototype
 - [screen-recorder-electron](https://github.com/akremziani/screen-recorder-electron): desktop screen recording/editor prototype
+- [orthobiome-lab-public](https://github.com/akremziani/orthobiome-lab-public): transparent, risk-aware orthodontic simulation research showcase
 
 ## Links
 
@@ -27,4 +28,3 @@ Before Vocalype, I built websites for local businesses through Lazo Webs and lat
 - Vocalype: https://vocalype.com
 - LinkedIn: https://www.linkedin.com/in/akrem-ziani-678093408
 - X: https://x.com/AkremZiani
-
